@@ -1,0 +1,13 @@
+body{
+    margin-left: 25px;
+}
+
+.chat{
+    background-color: rgb(14, 141, 184);
+    padding: 20px;
+    display: inline-block;
+}
+.msg{
+    background-color: yellow;
+    color:rgb(13, 93, 164)
+}
